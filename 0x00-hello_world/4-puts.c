@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
  * main - A program with puts fuction
- * @return: 0 for successful execution, non-zero for errors
+ * @return: 0 for successful execution
  */
 int main(void)
 {
