@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * Main - A program that prints from 0 to 9
+ * main - A program that prints from 0 to 9
  * Return: 0 (Success)
  */
 int main(void)
