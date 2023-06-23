@@ -1,4 +1,4 @@
-
+#include "main.h"
 #include <stdio.h>
 
 /**
@@ -7,7 +7,7 @@
  * and for the multiples of five buzz
  * Return: Always 0 (Success)
  */
-int main(void)
+void fizz_buzz(void) 
 {
 	int i;
 
